@@ -13,3 +13,5 @@ Services-Start-Stop-Oracle-
                  #   0000 0   0 0  0 0000 0000 0000             #
                 #                                                #
                 ##################################################
+
+Fragmento de codigos para realizar la gestión de servicios de forma mas simple en Windows.
